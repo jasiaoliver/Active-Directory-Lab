@@ -1,1 +1,1 @@
-Hello! Welcome to my Github! Here you will find screenshots and videos of my cybersecurity labs!
+Hello! Welcome to my Github! Here you will find screenshots and videos of my Active Directory labs!
